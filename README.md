@@ -45,6 +45,7 @@ python scrap.py
 
 # Lancer la détection sur des images de test
 python testModel.py
+```
 ## ✅ Technologies
 
 Python
